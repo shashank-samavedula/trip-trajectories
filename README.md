@@ -1,2 +1,2 @@
-# trip-trajectories
+# Tourist Trajectories Bangkok
 In the dynamic field of tourism, identifying popular destinations is crucial for effective management, marketing, and resource allocation. Social media, a rich data source, provides insights into diverse tourist preferences. Leveraging social media analytics and community detection techniques, this project aims to uncover tourist patterns, identify sought-after destinations, and pinpoint communities with specific travel preferences. The goal is to enhance tourist experiences, boost regional tourism industries, and contribute to economic development.
